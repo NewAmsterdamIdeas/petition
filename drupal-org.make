@@ -176,3 +176,9 @@ projects[fortyfour][download][type] = git
 projects[fortyfour][download][url] = https://github.com/WhiteHouse/fortyfour.git
 projects[fortyfour][download][branch] = 7.x-1.x
 projects[fortyfour][download][tag] = 7.x-1.0-alpha2
+
+projects[omega][type] = theme
+projects[omega][version] = 3.1
+
+projects[openomega][type] = theme
+projects[openomega][version] = 1.0
